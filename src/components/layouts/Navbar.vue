@@ -82,7 +82,7 @@ export default {};
 .btn-menu {
   border-radius: 50px;
   padding: 10px;
-  border: 2px solid rgb(36, 170, 9);
+  border: 2px solid rgb(31, 133, 11);
   background: white;
 }
 </style>
