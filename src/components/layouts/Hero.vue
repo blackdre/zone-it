@@ -29,7 +29,7 @@ export default {};
 }
 
 .hero-btn {
-  background: rgb(27, 133, 0);
+  background: rgba(18, 88, 0, 0.678);
   padding: 5px 20px;
   border-radius: 50px;
   border: 1px solid rgba(0, 128, 0, 0.685);

@@ -74,7 +74,7 @@
 export default {};
 </script>
 
-<style>
+<style scoped>
 .logo {
   width: 80px;
 }
@@ -84,5 +84,14 @@ export default {};
   padding: 10px;
   border: 2px solid rgb(31, 133, 11);
   background: white;
+}
+
+.nav-link {
+  color: #064204;
+  font-size: 2rem;
+}
+.nav-link:hover {
+  color: #064204;
+  text-shadow: 0 0 20px #073a00;
 }
 </style>
